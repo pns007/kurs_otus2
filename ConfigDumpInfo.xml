@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Configuration.Расширение_Otus" id="d088810e-f674-4e24-9768-1cda7532d5d4" configVersion="2cbc1bcb785562f12199bb6bd606aeee6d549a30"/>
+		<Metadata name="Language.Русский" id="2b31555a-b1ec-45b7-8b07-172bc9b877d9" configVersion="19e63360e57c7d163ba961fea54e6191f6da1c64"/>
+		<Metadata name="Role.ot_ОсновнаяРоль" id="111c6135-10c5-4442-a8fd-c7f020ca4d43" configVersion="f8ae238d7897a553de743a3429ec98ea30c6a10f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
