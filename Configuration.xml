@@ -72,6 +72,7 @@
 			<StyleItem>НадписьПоясняющаяГиперссылку</StyleItem>
 			<Role>ot_ОсновнаяРоль</Role>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

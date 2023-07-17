@@ -4,7 +4,10 @@
 		<Metadata name="Catalog.Контрагенты" id="2c443a98-a0df-4965-804d-f970642c5424" configVersion="f63a1f750764795c68522c95867641998147f45c"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="167045e3-3833-4a8c-8202-d5142c5e6ab2" configVersion="c76b77eddf657f782f75d2f5a1b8457e6177d904"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="167045e3-3833-4a8c-8202-d5142c5e6ab2.0" configVersion="f2aa29432ab488bdd1a76f5dda0d343479d3745e"/>
-		<Metadata name="Configuration.Расширение_Otus" id="d088810e-f674-4e24-9768-1cda7532d5d4" configVersion="95a282fe25a67d032e4ef723b5874ee99b4b73b8"/>
+		<Metadata name="Catalog.Номенклатура" id="2b2de380-6fe9-4e01-9f92-52e8b386f670" configVersion="e787ec8e9fe914271c3351e4d17ecf87be2af4f0"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаГруппы" id="30fad929-35b1-4f4d-8995-a0d740172982" configVersion="2761f7e6453960c48d3535b94cf18d19f7c45bf5"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаГруппы.Form" id="30fad929-35b1-4f4d-8995-a0d740172982.0" configVersion="895a79e6ce1618a31f5d3f2670115f2b7b2233cb"/>
+		<Metadata name="Configuration.Расширение_Otus" id="d088810e-f674-4e24-9768-1cda7532d5d4" configVersion="0ccd3bbd8805846cf02dceec763096914279ac89"/>
 		<Metadata name="Language.Русский" id="2b31555a-b1ec-45b7-8b07-172bc9b877d9" configVersion="19e63360e57c7d163ba961fea54e6191f6da1c64"/>
 		<Metadata name="Role.ot_ОсновнаяРоль" id="111c6135-10c5-4442-a8fd-c7f020ca4d43" configVersion="f8ae238d7897a553de743a3429ec98ea30c6a10f"/>
 		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="744b95d8-ff78-4988-a157-87bdf4681c6f" configVersion="e8f249dec1e16b59f92cf8a43626d90d547f435b"/>
