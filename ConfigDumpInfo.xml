@@ -1,8 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="Configuration.Расширение_Otus" id="d088810e-f674-4e24-9768-1cda7532d5d4" configVersion="2cbc1bcb785562f12199bb6bd606aeee6d549a30"/>
+		<Metadata name="Catalog.Контрагенты" id="2c443a98-a0df-4965-804d-f970642c5424" configVersion="f63a1f750764795c68522c95867641998147f45c"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="167045e3-3833-4a8c-8202-d5142c5e6ab2" configVersion="c76b77eddf657f782f75d2f5a1b8457e6177d904"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="167045e3-3833-4a8c-8202-d5142c5e6ab2.0" configVersion="f2aa29432ab488bdd1a76f5dda0d343479d3745e"/>
+		<Metadata name="Configuration.Расширение_Otus" id="d088810e-f674-4e24-9768-1cda7532d5d4" configVersion="95a282fe25a67d032e4ef723b5874ee99b4b73b8"/>
 		<Metadata name="Language.Русский" id="2b31555a-b1ec-45b7-8b07-172bc9b877d9" configVersion="19e63360e57c7d163ba961fea54e6191f6da1c64"/>
 		<Metadata name="Role.ot_ОсновнаяРоль" id="111c6135-10c5-4442-a8fd-c7f020ca4d43" configVersion="f8ae238d7897a553de743a3429ec98ea30c6a10f"/>
+		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="744b95d8-ff78-4988-a157-87bdf4681c6f" configVersion="e8f249dec1e16b59f92cf8a43626d90d547f435b"/>
+		<Metadata name="StyleItem.ГруппаВариантовОтчетовВажнаяШрифт" id="e89e56a2-ce81-4923-a622-8dcb9547e059" configVersion="025d07bea757ff6f81eddea2b957467bc985eed0"/>
+		<Metadata name="StyleItem.НадписьПоясняющаяГиперссылку" id="ada4f3d6-0a21-4171-a709-0fe4e6627792" configVersion="adfef8708848e63a71127f4db0900cee39ba6642"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="124bc749-39b8-4992-83ff-2eebf3132e27" configVersion="635ac6876029f7bc3c0625578171d3ee3412bb33"/>
+		<Metadata name="StyleItem.ЦветВыделенияКонтрагентаСОшибкой" id="3c0123b3-10a3-460b-ba9a-ccb38d1b7377" configVersion="77a34894934784b34831635901a003f2df39c0d2"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

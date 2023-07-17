@@ -1,0 +1,9 @@
+﻿New: Catalog.Контрагенты
+New: Catalog.Контрагенты.Form.ФормаЭлемента
+New: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+New: StyleItem.БыстрыеОтборыФонГруппы
+New: StyleItem.ГруппаВариантовОтчетовВажнаяШрифт
+New: StyleItem.НадписьПоясняющаяГиперссылку
+New: StyleItem.ПоясняющийТекст
+New: StyleItem.ЦветВыделенияКонтрагентаСОшибкой
+Modified: Configuration.Расширение_Otus

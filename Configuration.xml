@@ -65,7 +65,13 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<StyleItem>БыстрыеОтборыФонГруппы</StyleItem>
+			<StyleItem>ГруппаВариантовОтчетовВажнаяШрифт</StyleItem>
+			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>ЦветВыделенияКонтрагентаСОшибкой</StyleItem>
+			<StyleItem>НадписьПоясняющаяГиперссылку</StyleItem>
 			<Role>ot_ОсновнаяРоль</Role>
+			<Catalog>Контрагенты</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
